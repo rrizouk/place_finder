@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: place-finder
+
+fourSquareVenueFinder:
+  baseUrl: 'https://api.foursquare.com/v2/venues/search'
+  clientId: 'UJTKSTMN5WSMREYC3GDNHDTGX1ODXHQAYQMBPXHGLDV0X2IM'
+  clientSecret: '2P2YQWJJGOVSTG4MQBEEZYNFDQ03H11LZQVJO534POIZQMH4'
